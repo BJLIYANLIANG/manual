@@ -15,6 +15,5 @@
 
 #### Logs:
 
-
 #### Configuration:
-* Mevoco Version:
+Mevoco Version:
